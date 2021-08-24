@@ -1,0 +1,31 @@
+
+body{
+    background-image: url("/blackjack/table.jpg");
+    padding: 0;
+    margin:0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div{
+    margin: 0;
+    padding: 0;
+}
+#content{
+    background-image: url("/table.jpg");
+    text-align: center;
+    font-size: 0.8cm;
+    color:white;
+}
+
+#title-el{
+    color:orange;
+    margin:1cm;
+    text-decoration: underline;
+}
+
+#start-btn{
+    color: #016f32;
+    width: 300px;
+    height: 40px;
+    background-color: goldenrod;
+}
